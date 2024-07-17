@@ -78,16 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The dataset used in this project is a publicly available resource provided by the UCI Machine Learning Repository.
 - Special thanks to the researchers and contributors of the Cleveland database for making this data accessible.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to reach out:
-
-- Email: = saivenkatmadamanchi@gmail.com
-- GitHub: [https://github.com/saivenkatmadamanchi](https://github.com/yourusername)
-
-We hope this project contributes to the advancement of diagnostic tools for cardiovascular health assessment. Happy coding!
-
----
-
-Note: Customize the above details (such as GitHub links, email, and other personal information) to fit your specific project context.
