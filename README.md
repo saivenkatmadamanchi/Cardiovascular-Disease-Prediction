@@ -83,8 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub: [saivenkatmadamanchi@gmail.com](https://github.com/yourusername)
+- Email: = saivenkatmadamanchi@gmail.com
+- GitHub: [https://github.com/saivenkatmadamanchi](https://github.com/yourusername)
 
 We hope this project contributes to the advancement of diagnostic tools for cardiovascular health assessment. Happy coding!
 
