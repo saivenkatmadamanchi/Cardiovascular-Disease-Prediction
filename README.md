@@ -14,7 +14,7 @@ This machine learning project aims to predict the presence of heart disease in p
 
 ## Dataset
 
-The dataset contains information about patients with the following 14 attributes:
+The dataset contains information about patients with the following attributes:
 
 1. Age
 2. Sex
